@@ -1,0 +1,22 @@
+#Todo
+-[ ] Setup
+	-[ ] Install packages
+		-[ ] nvm
+			-[ ] nvm install 6.13.1
+			-[ ] nvm alias default 6.13.1
+		-[ ] node version 6.x
+		-[ ] Ubuntu: install build-essential package
+	-[ ] Set up all dirs
+		-[ ] client
+			-[ ] dist
+				-[ ] index.html
+			-[ ] src
+				-[ ] app.js
+		-[ ] server
+			-[ ] Models
+			-[ ] Controllers
+			-[ ] Routers (app.js)
+		-[ ] database
+			-[ ] schema
+	-[ ] Commit!
+-[ ] 
